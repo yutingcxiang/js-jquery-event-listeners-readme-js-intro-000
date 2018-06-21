@@ -9,7 +9,7 @@ function getIT() {
 $(document).ready(function(){
 
 // call functions here
-getIt;
+getIt();
 
 });
 
